@@ -1,0 +1,126 @@
+---
+object: card
+id: baa93038-2849-4c26-ab4f-1d50d276659f
+oracle_id: a78fd535-59ce-4980-82f1-76f1b6bb2e35
+multiverse_ids: []
+tcgplayer_id: 78504
+name: Satyr
+lang: en
+released_at: '2013-09-27'
+uri: https://api.scryfall.com/cards/baa93038-2849-4c26-ab4f-1d50d276659f
+scryfall_uri: https://scryfall.com/card/tths/9/satyr?utm_source=api
+layout: token
+highres_image: true
+image_status: highres_scan
+image_uris:
+  small: https://cards.scryfall.io/small/front/b/a/baa93038-2849-4c26-ab4f-1d50d276659f.jpg?1562636879
+  normal: https://cards.scryfall.io/normal/front/b/a/baa93038-2849-4c26-ab4f-1d50d276659f.jpg?1562636879
+  large: https://cards.scryfall.io/large/front/b/a/baa93038-2849-4c26-ab4f-1d50d276659f.jpg?1562636879
+  png: https://cards.scryfall.io/png/front/b/a/baa93038-2849-4c26-ab4f-1d50d276659f.png?1562636879
+  art_crop: https://cards.scryfall.io/art_crop/front/b/a/baa93038-2849-4c26-ab4f-1d50d276659f.jpg?1562636879
+  border_crop: https://cards.scryfall.io/border_crop/front/b/a/baa93038-2849-4c26-ab4f-1d50d276659f.jpg?1562636879
+mana_cost: ''
+cmc: 0.0
+type_line: Token Creature — Satyr
+oracle_text: ''
+power: '2'
+toughness: '2'
+colors:
+- G
+- R
+color_identity:
+- G
+- R
+keywords: []
+all_parts:
+- object: related_card
+  id: e1d2c774-aab9-4747-af91-da792ed7cfe1
+  component: combo_piece
+  name: Revel of the Fallen God
+  type_line: Sorcery
+  uri: https://api.scryfall.com/cards/e1d2c774-aab9-4747-af91-da792ed7cfe1
+- object: related_card
+  id: 3aecfe99-9c4b-4087-84ee-fb208fd22820
+  component: combo_piece
+  name: Xenagos, the Reveler
+  type_line: Legendary Planeswalker — Xenagos
+  uri: https://api.scryfall.com/cards/3aecfe99-9c4b-4087-84ee-fb208fd22820
+- object: related_card
+  id: baa93038-2849-4c26-ab4f-1d50d276659f
+  component: token
+  name: Satyr
+  type_line: Token Creature — Satyr
+  uri: https://api.scryfall.com/cards/baa93038-2849-4c26-ab4f-1d50d276659f
+legalities:
+  standard: not_legal
+  future: not_legal
+  historic: not_legal
+  gladiator: not_legal
+  pioneer: not_legal
+  explorer: not_legal
+  modern: not_legal
+  legacy: not_legal
+  pauper: not_legal
+  vintage: not_legal
+  penny: not_legal
+  commander: not_legal
+  oathbreaker: not_legal
+  brawl: not_legal
+  historicbrawl: not_legal
+  alchemy: not_legal
+  paupercommander: not_legal
+  duel: not_legal
+  oldschool: not_legal
+  premodern: not_legal
+  predh: not_legal
+games:
+- paper
+reserved: false
+foil: false
+nonfoil: true
+finishes:
+- nonfoil
+oversized: false
+promo: false
+reprint: false
+variation: false
+set_id: fbed88b2-db9b-4606-8202-8ff746f0513f
+set: tths
+set_name: Theros Tokens
+set_type: token
+set_uri: https://api.scryfall.com/sets/fbed88b2-db9b-4606-8202-8ff746f0513f
+set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3Atths&unique=prints
+scryfall_set_uri: https://scryfall.com/sets/tths?utm_source=api
+rulings_uri: https://api.scryfall.com/cards/baa93038-2849-4c26-ab4f-1d50d276659f/rulings
+prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3Aa78fd535-59ce-4980-82f1-76f1b6bb2e35&unique=prints
+collector_number: '9'
+digital: false
+rarity: common
+card_back_id: 0aeebaf5-8c7d-4636-9e82-8c27447861f7
+artist: Johann Bodin
+artist_ids:
+- d92e2dd9-9ef6-43f6-81f8-df87f9066983
+illustration_id: 620486fc-ec47-4c5b-92a5-750936549c5c
+border_color: black
+frame: '2003'
+full_art: false
+textless: false
+booster: true
+story_spotlight: false
+promo_types:
+- setpromo
+prices:
+  usd: '0.26'
+  usd_foil: 
+  usd_etched: 
+  eur: 
+  eur_foil: 
+  tix: 
+related_uris:
+  tcgplayer_infinite_articles: https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Satyr&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  tcgplayer_infinite_decks: https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Satyr&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  edhrec: https://edhrec.com/route/?cc=Satyr
+purchase_uris:
+  tcgplayer: https://www.tcgplayer.com/product/78504?page=1&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Satyr&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+  cardhoarder: https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Satyr&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall
